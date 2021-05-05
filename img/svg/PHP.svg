@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3299 -203 105 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f9415d;
+      }
+    </style>
+  </defs>
+  <g id="PHP" transform="translate(3299 -203)">
+    <path id="Path_13" data-name="Path 13" class="cls-1" d="M2,8V68H107V8Zm7.5,7.5h90v45H9.5ZM20.75,23V53h7.5V45.5a11.25,11.25,0,1,0,0-22.5Zm22.5,0V53h7.5V41.75h7.5V53h7.5V23h-7.5V34.25h-7.5V23Zm30,0V53h7.5V45.5a11.25,11.25,0,1,0,0-22.5Zm-45,7.5a3.75,3.75,0,0,1,0,7.5Zm52.5,0a3.75,3.75,0,1,1,0,7.5Z" transform="translate(-2 -8)"/>
+  </g>
+</svg>
